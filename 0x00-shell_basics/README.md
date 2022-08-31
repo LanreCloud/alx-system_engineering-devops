@@ -1,2 +1,1 @@
-#!/bin/bash
-pwd
+Directory for Bash Script Practice
